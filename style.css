@@ -9,7 +9,7 @@ body {
   background-color: cyan;
 }
 .paragraph {
-  font-family: 'Courier New', Courier, monospace;
+  font-family: courier;
   color: crimson;
   border: 1px solid black;
   background-color: white;
