@@ -23,3 +23,10 @@ body {
   background-color: white;
   color: orchid;
 }
+
+.table {
+  font-family: fantasy;
+  border: 1px solid black;
+  background-color: white;
+  text-align: center;
+}
