@@ -5,15 +5,18 @@
   color: blueviolet;
   text-align: center;
 }
+
 body {
   background-color: cyan;
 }
+
 .paragraph {
   font-family: courier;
   color: crimson;
   border: 1px solid black;
   background-color: white;
 }
+
 .paragraph2 {
   font-family: arial;
   border: 1px solid black;
